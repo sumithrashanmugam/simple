@@ -1,0 +1,16 @@
+esa_id[mandatory],password,first_name[mandatory],last_name,email_id[mandatory],contact_number[mandatory],address_1[mandatory],address_2[mandatory],address_3,city[mandatory],state[mandatory],country,country_code,postal_code[mandatory],license_key[mandatory],area_code[mandatory],login_id[mandatory],pu_code[mandatory],pu_name[mandatory],services[mandatory]
+E10002,password,tester,test,tester2@gmail.com,8989898989,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560006,eedc799c52d9b3aedf8af336f2408791,BOM,BOM1001,7801,Pu_name,Surface
+E10003,password,Test*12,test,test12@gmail.com,9898989898,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560045,eedc799c52d9b3aedf8af336f2408792,BOM,BOM1001,7802,Pu_name,Apex
+E10002,password,Tester12,test,tester2@gmail.com,7878787878,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560006,eedc799c52d9b3aedf8af336f2408793,BOM,BOM1005,7803,Pu_name,"Apex,DomesticPriority "
+E10005,password,Tester,test,Tester@gmail.com,8787878787,Address1,Lineup1,Street,Mumbai,MH,INDIA,IN,400004,eedc799c52d9b3aedf8af336f2408794,BOM,BOM1004,7804,Pu_name,"Surface,Apex,DomesticPriority "
+E10009,password,Automation,test,Automation@gmail.com,5656565654,Address1,Lineup1,Street,Mumbai,MH,INDIA,IN,400001,eedc799c52d9b3aedf8af336f2408795,BOM,BOM1004,7805,Pu_name,Apex
+E10206,password,Automation,test,Automation1@gmail.com,6565651000,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560006,eedc799c52d9b3aedf8af336f2408796,POM,POM1025,7806,Pu_name,"Surface,DomesticPriority "
+E12345,password,Automation,test,Automation@gmail.com,5252525252,Address1,Lineup1,Street,Mumbai,MH,INDIA,IN,400002,eedc799c52d9b3aedf8af336f2408797,POM,POM1234,7807,Pu_name,Surface
+E10009,password,Tester,test,Tester@gmail.com,9090909090,Address1,Lineup1,Street,Mumbai,MH,INDIA,IN,400004,eedc799c52d9b3aedf8af336f2408798,POM,POM1004,7808,Pu_name,DomesticPriority
+E12456,password,Tester12,test,Tester12@gmail.com,8080809090,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560006,eedc799c52d9b3aedf8af336f2408799,POM,POM1245,7809,Pu_name,Surface
+E12456,password,Testing,test,Testing@gmail.com,7080904050,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560006,eedc799c52d9b3aedf8af336f2408785,POM,POM1245,7810,Pu_name,Apex
+E10007,password,Testing,test,Testing@gmail.com,8090809050,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560009,eedc799c52d9b3aedf8af336f2408786,POM,POM1005,7811,Pu_name,"Surface,Apex"
+E12345,password,Automation,test,Automation@gmail.com,5060809010,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560045,eedc799c52d9b3aedf8af336f2408787,BOM,BOM1235,7812,Pu_name,Surface
+E10007,password,Automation1,test,Automation1@gmail.com,9080708090,Address1,Lineup1,Street,Mumbai,MH,INDIA,IN,400001,eedc799c52d9b3aedf8af336f2408788,POM,POM1004,7813,Pu_name,Apex
+E10005,password,Automation,test,Automation@gmail.com,5060809090,Address1,Lineup1,Street,Mumbai,MH,INDIA,IN,400005,eedc799c52d9b3aedf8af336f2408789,POM,POM1004,7814,Pu_name,Surface
+E10008,password,Tester,test,Tester@gmail.com,9088880999,Address1,Lineup1,Street,Bangalore,KA,INDIA,IN,560009,eedc799c52d9b3aedf8af336f2408790,BOM,BOM1005,7815,Pu_name,Apex

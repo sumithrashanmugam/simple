@@ -1,0 +1,2 @@
+esa_id[mandatory],password,first_name[mandatory],last_name,email_id[mandatory],contact_number[mandatory],address_1[mandatory],address_2[mandatory],address_3,city[mandatory],state[mandatory],country,country_code,postal_code[mandatory],license_key[mandatory],area_code[mandatory],login_id[mandatory],pu_code[mandatory],pu_name[mandatory],services[mandatory]
+E10025,password,first,last_name,firstlast2@gmail.com,9856200001,Address2,LIne2,Street3,Bangalore,KA,INDIA,IN,460005,eryhj87976bfs87,BOM,BOM5602,8902,Pu_name,Surface

@@ -1,0 +1,40 @@
+first_name[mandatory],last_name,password,contact_number[mandatory],email_id[mandatory],services[mandatory]
+anaa,tester,password,1234567891,anaa@gmail.com,Apex
+scarllet,tester,password,1234567891,scarllet@gmail.com,Apex
+neewtdcred,tester,password,1234567891,neewtdcred@gmail.com,Apex
+ntdcred,tester,password,1234567891,ntdcred@gmail.com,Apex
+ncbtest,tester,password,1234567891,ncbtest@gmail.com,Apex
+sabtest,tester,password,1234567891,sabtest@gmail.com,Apex
+lower,tester,password,1234567891,lower@gmail.com,Apex
+higher,tester,password,1234567891,higher@gmail.com,Apex
+firsttest,tester,password,1234567891,firsttest@gmail.com,Apex
+secondtest,tester,password,1234567891,secondtest@gmail.com,Surface
+thirdtest,tester,password,1234567891,thirdtest@gmail.com,Surface
+fourthtest,tester,password,1234567891,fourthtest@gmail.com,Surface
+fivetest,tester,password,1234567891,fivetest@gmail.com,Surface
+sixtest,tester,password,2134567891,sixtest@gmail.com,Surface
+seventest,tester,password,2136547891,seventest@gmail.com,Surface
+eighttest,tester,password,5689741231,eighttest@gmail.com,Surface
+ninthtest,tester,password,7894561235,ninthtest@gmail.com,Surface
+tenthtest,tester,password,7800154101,tenthtest@gmail.com,Surface
+eleventhtest,tester,password,8956237410,eleventhtest@gmail.com,Surface
+twelevetest,tester,password,8956237400,twelevetest@gmail.com,Surface
+thirteentest,tester,password,7894561230,thirteentest@gmail.com,Surface
+fourteentest,tester,password,4561237894,fourteentest@gmail.com,Domestic Priority
+fiveteentest,tester,password,4567894610,fiveteentest@gmail.com,Domestic Priority
+sixteentext,tester,password,5689741235,sixteentext@gmail.com,Domestic Priority
+seventeentest,tester,password,7894561235,seventeentest@gmail.com,Domestic Priority
+eightentest,tester,password,8956237415,eightentest@gmail.com,Domestic Priority
+ninteentext,tester,password,4567891230,ninteentext@gmail.com,Domestic Priority
+twentytest,tester,password,4789651235,twentytest@gmail.com,Domestic Priority
+testone,tester,password,4789651235,testone@gmail.com,Domestic Priority
+testtwo,tester,password,5879463214,testtwo@gmail.com,Domestic Priority
+testthree,tester,password,5897463211,testthree@gmail.com,Domestic Priority
+testfour,tester,password,4569874561,testfour@gmail.com,Domestic Priority
+testfive,tester,password,4589567445,testfive@gmail.com,Domestic Priority
+testsix,tester,password,4213659874,testsix@gmail.com,Domestic Priority
+testseven,tester,password,4217895632,testseven@gmail.com,Domestic Priority
+testeight,tester,password,4587963215,testeight@gmail.com,Surface
+testnine,tester,password,8945761232,testnine@gmail.com,Surface
+testten,tester,password,8002547801,testten@gmail.com,Surface
+testeleven,tester,password,7045100456,m,Surface

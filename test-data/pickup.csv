@@ -1,0 +1,2 @@
+first_name[mandatory],last_name,password,contact_number[mandatory],email_id[mandatory],services[mandatory]
+AutomateTesting,Test,password,7888888777,Automation@gmail.com,Surface
